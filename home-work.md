@@ -17,7 +17,7 @@ Each student will work on the same shared repository following this plan:
 ### **Step 2: Collaboration**
 - Pull changes made by others.
 - Resolve at least 1 merge conflict.
-- Use `git log`, `git blame`, `git diff` to audit changes.
+- Use `git log`, `git diff` to audit changes.
 - Tag the project as `v1.0` once the first version is complete.
 
 ---
