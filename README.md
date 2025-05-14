@@ -1,14 +1,21 @@
-# Test Text
+# Personal Introduction Website
 
-This is a sample README file for testing purposes.
+This is a simple website project using Python Flask to introduce yourself.
 
-- Item 1
-- Item 2
-- Item 3
+## Requirements
 
-Feel free to edit or replace this content.
+- Python 3.x
+- Flask
 
-Add test remote branch
+## Setup and Run
 
-Change 1
+```bash
+# Create a virtual environment
+python -m venv .venv
+source .venv/bin/activate
 
+# Install Flask
+pip install flask
+
+# Run the application
+python app.py
