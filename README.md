@@ -13,13 +13,14 @@ This is a simple website project using Python Flask to introduce yourself.
 # Create a virtual environment
 python -m venv .venv
 source .venv/bin/activate
+```
 
 # Install Flask
+```
 pip install flask
+```
 
 # Run the application
+```
 python app.py
-
-
-test
-aaaa
+```
