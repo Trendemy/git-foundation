@@ -34,7 +34,23 @@
     {
       "type": "push",
       "allow_force_pushes": false
-    }
+    },
+    {
+      "type": "push",
+      "allow_force_pushes": false,
+      "bypass_actors": ["admins"]
+    },
+    {
+      "type": "push",
+      "allow_force_pushes": false,
+      "require_code_owner_reviews": true
+    },
+    {
+      "type": "push",
+      "allow_force_pushes": false,
+      "require_code_owner_reviews": true,
+      "bypass_actors": ["admins"]
+    },
   ],
   "bypass_actors": ["admins"]
 }
